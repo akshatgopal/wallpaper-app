@@ -29,3 +29,17 @@ A responsive Wallpaper app built with React Native, featuring stunning wallpaper
 
    ```bash
    git clone https://github.com/akshatgopal/wallpaper-app.git
+
+# Wallpaper App Demo GIFs
+
+### Introduction to the Wallpaper App
+[![Introduction GIF](assets/videos/vid1.gif)](assets/videos/vid1.gif)
+
+### Search, Download, and Share Functionality
+[![Search, Download, and Share GIF](assets/videos/vid3.gif)](assets/videos/vid3.gif)
+
+### Applying Filters
+[![Applying Filters](assets/videos/vid4.gif)](assets/videos/vid4.gif)
+
+### Resetting Filters
+[![Resetting Filters](assets/videos/vid2.gif)](assets/videos/vid2.gif)
